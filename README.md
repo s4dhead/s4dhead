@@ -32,5 +32,6 @@ Hey there *෴*
   <img src="https://www.kali.org/tools/ffuf/images/ffuf-logo.svg" title="Ffuf" alt="Ffuf" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/120229/sql.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
   <img src="https://owasp.org/assets/images/logo.svg" title="Owasp" alt="Owasp" width="40" height="40"/>&nbsp;
+  <img src="https://nmap.org/images/sitelogo-nmap.svg" title="Nmap" alt="Nmap" width="40" height="40"/>&nbsp;
   <img src="https://iconape.com/netcat-logo-logo-icon-svg-png.html" title="Netcat" alt="Netcat" width="40" height="40"/>
 </div>
