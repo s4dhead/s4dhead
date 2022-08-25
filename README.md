@@ -31,6 +31,6 @@ Hey there *෴*
   <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" title="Burpsuite" alt="Burpsuite" width="40" height="40"/>&nbsp;
   <img src="https://www.kali.org/tools/ffuf/images/ffuf-logo.svg" title="Ffuf" alt="Ffuf" width="40" height="40"/>&nbsp;
   <img src="[https://www.dreamstime.com/stock-illustration-sql-database-icon-logo-design-ui-ux-app-gold-inscription-dark-black-background-image96842123" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
-  <img src="(https://owasp.org/assets/images/logo.svg)" alt="Osi-model" width="40" height="40"/>&nbsp;
+  <img src="https://owasp.org/assets/images/logo.svg" alt="Osi-model" width="40" height="40"/>&nbsp;
   <img src="https://iconape.com/netcat-logo-logo-icon-svg-png.html" title="Netcat" alt="Netcat" width="40" height="40"/>
 </div>
