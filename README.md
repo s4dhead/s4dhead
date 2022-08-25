@@ -1,8 +1,4 @@
-Hey there :)
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="150"/>
-</div>
+Hey there *෴*
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/antoni-ottone-29898a237/">
@@ -17,7 +13,7 @@ Hey there :)
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/4OAxDXv4RdUeg38JYi/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="600" height="300"/>
 </div>
 
 ---
