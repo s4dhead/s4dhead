@@ -27,12 +27,12 @@ Hey there *෴*
 
 <div>
   <img src="<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  
   <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" title="Burpsuite" alt="Burpsuite" width="40" height="40"/>&nbsp;
   <img src="https://www.kali.org/tools/ffuf/images/ffuf-logo.svg" title="Ffuf" alt="Ffuf" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/120229/sql.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
   <img src="https://owasp.org/assets/images/logo.svg" title="Owasp" alt="Owasp" width="40" height="40"/>&nbsp;
   <img src="https://nmap.org/images/sitelogo-nmap.svg" title="Nmap" alt="Nmap" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://iconape.com/netcat-logo-logo-icon-svg-png.html" title="Netcat" alt="Netcat" width="40" height="40"/>
+  
 </div>
