@@ -30,7 +30,7 @@ Hey there *෴*
   <img src="[https://cdn.icon-icons.com/icons2/2148/PNG/512/nmap_icon_132152.png] title="Nmap" alt="Nmap" width="40" height="40"/>&nbsp;
   <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" title="Burpsuite" alt="Burpsuite" width="40" height="40"/>&nbsp;
   <img src="https://www.kali.org/tools/ffuf/images/ffuf-logo.svg" title="Ffuf" alt="Ffuf" width="40" height="40"/>&nbsp;
-  <img src="https://www.flaticon.es/icono-gratis/base-de-datos_4248443?term=sql&related_id=4248443" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
+  <img src="[https://www.flaticon.es/icono-gratis/base-de-datos_4248443?term=sql&related_id=4248443](https://img.icons8.com/stickers/344/sql.png)" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
   <img src="[https://cdn.vectorstock.com/i/1000x1000/22/45/osi-model-icon-thin-line-style-industry-40-icons-vector-23862245.webp](https://images-na.ssl-images-amazon.com/images/I/51I2k9o15RL.png)" title="Osi-model" alt="Osi-model" width="40" height="40"/>&nbsp;
   <img src="https://iconape.com/netcat-logo-logo-icon-svg-png.html" title="Netcat" alt="Netcat" width="40" height="40"/>
 </div>
