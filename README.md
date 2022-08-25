@@ -1,7 +1,7 @@
-Hey there
+Hey there :)
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="100"/>
+  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="150"/>
 </div>
 
 <div id="badges">
@@ -30,7 +30,7 @@ Hey there
 - :telescope: I am still a student in Cybersecurity, from Swiss
 - :seedling: I’m interested in Pentesting and Cyber Security.
 - :zap: In my free time, I like to do CTF's, Bug Bounty Hunting and read tech articles.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antoni-ottone-29898a237/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-s4dhead-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antoni-ottone-29898a237/)
 
 <div>
   <img src="<div>
