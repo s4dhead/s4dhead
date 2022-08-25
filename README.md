@@ -18,7 +18,7 @@ Hey there *෴*
 
 ---
 
-### 👨‍💻_technologist: About Me : 
+### 👨‍💻 About Me : 
 
 - :telescope: I am still a student in Cybersecurity, from Swiss
 - :seedling: I’m interested in Pentesting and Cyber Security.
@@ -27,7 +27,7 @@ Hey there *෴*
 
 <div>
   <img src="<div>
-  <img src="[https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg](https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg)" title="Nmap" alt="Nmap" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Nmap" alt="Nmap" width="40" height="40"/>&nbsp;
   <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" title="Burpsuite" alt="Burpsuite" width="40" height="40"/>&nbsp;
   <img src="https://www.kali.org/tools/ffuf/images/ffuf-logo.svg" title="Ffuf" alt="Ffuf" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/120229/sql.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
