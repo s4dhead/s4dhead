@@ -27,7 +27,7 @@ Hey there *෴*
 
 <div>
   <img src="<div>
-  <img src="https://nmap.org/images/nmap-project-logo.svg" title="Nmap" alt="Nmap" width="40" height="40"/>&nbsp;
+  <img src="file:///C:/Users/otton/Downloads/download-icon-Nmap-1324888745663874644_0.svg" title="Nmap" alt="Nmap" width="40" height="40"/>&nbsp;
   <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" title="Burpsuite" alt="Burpsuite" width="40" height="40"/>&nbsp;
   <img src="https://www.kali.org/tools/ffuf/images/ffuf-logo.svg" title="Ffuf" alt="Ffuf" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/120229/sql.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
