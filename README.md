@@ -17,7 +17,7 @@ Hey there :)
 </h1>
 
 <div align="center">
-  <img src="https://tenor.com/view/hacker-hacker-man-hacking-hackers-hack-gif-23864910" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/4OAxDXv4RdUeg38JYi/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
