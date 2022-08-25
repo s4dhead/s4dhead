@@ -27,7 +27,7 @@ Hey there *෴*
 
 <div>
   <img src="<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Nmap" alt="Nmap" width="40" height="40"/>&nbsp;
+  <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" title="Nmap" alt="Nmap" width="40" height="40"/>&nbsp;
   <img src="https://icon-icons.com/icon/Burp-Suite-macOS-BigSur/190319" title="Burpsuite" alt="Burpsuite" width="40" height="40"/>&nbsp;
   <img src="https://www.kali.org/tools/ffuf/images/ffuf-logo.svg" title="Ffuf" alt="Ffuf" width="40" height="40"/>&nbsp;
   <img src="https://www.flaticon.es/icono-gratis/base-de-datos_4248443?term=sql&related_id=4248443" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
