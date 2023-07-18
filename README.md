@@ -35,3 +35,58 @@ Hey there *෴*
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
   
 </div>
+
+<div class="row">
+<div class="col-4 d-flex justify-content-center">
+<div>
+<div class="red">
+<div class="progress">
+<div class="inner">
+<div class="percent"><span class="redPercent">24.88</span>%</div>
+<div class="water redWater" style="top: 75.12%;"></div>
+<div class="glare"></div>
+</div>
+</div>
+</div>
+<div class="text-center mt-2">
+<h6>Offensive</h6>
+</div>
+</div>
+</div>
+<div class="col-4 d-flex justify-content-center">
+<div>
+<div class="blue">
+<div class="progress">
+<div class="inner">
+<div class="percent"><span class="bluePercent">8.40</span>%</div>
+<div class="water blueWater" style="top: 91.6%;"></div>
+<div class="glare"></div>
+</div>
+</div>
+</div>
+<div class="text-center mt-2">
+<h6>Defensive</h6>
+</div>
+</div>
+</div>
+<div class="col-4 d-flex justify-content-center">
+<div>
+<div class="green">
+<div class="progress">
+<div class="inner">
+<div class="percent"><span class="greenPercent">15.16</span>%</div>
+<div class="water greenWater" style="top: 84.84%;"></div>
+<div class="glare"></div>
+</div>
+</div>
+</div>
+<div class="text-center mt-2">
+<h6>General</h6>
+</div>
+</div>
+</div>
+</div>
+
+
+
+   
