@@ -42,7 +42,7 @@ Hey there *෴*
 <div class="red">
 <div class="progress">
 <div class="inner">
-<div class="percent"><span class="redPercent">26.39</span>%</div>
+<div class="percent"><span class="redPercent">33.45</span>%</div>
 <div class="water redWater" style="top: 75.12%;"></div>
 <div class="glare"></div>
 </div>
@@ -58,7 +58,7 @@ Hey there *෴*
 <div class="blue">
 <div class="progress">
 <div class="inner">
-<div class="percent"><span class="bluePercent">7.75</span>%</div>
+<div class="percent"><span class="bluePercent">8.21</span>%</div>
 <div class="water blueWater" style="top: 91.6%;"></div>
 <div class="glare"></div>
 </div>
@@ -74,7 +74,7 @@ Hey there *෴*
 <div class="green">
 <div class="progress">
 <div class="inner">
-<div class="percent"><span class="greenPercent">14.16</span>%</div>
+<div class="percent"><span class="greenPercent">24.53</span>%</div>
 <div class="water greenWater" style="top: 84.84%;"></div>
 <div class="glare"></div>
 </div>
